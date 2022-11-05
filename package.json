@@ -10,6 +10,10 @@
     "type": "git",
     "url": "git@github.com-eshwagadkar:eshwagadkar/minimal-react-configuration.git"
   },
+  "engines": {
+    "npm": "8.19.2",
+    "node": "16.18.0"
+  },
   "keywords": [
     "react",
     "webpack",
