@@ -1,0 +1,22 @@
+{
+  "name": "minimal-react-configuration",
+  "version": "1.0.0",
+  "description": "minimal configuration of react ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-eshwagadkar:eshwagadkar/minimal-react-configuration.git"
+  },
+  "keywords": [
+    "react",
+    "webpack",
+    "babel",
+    "node",
+    "npm"
+  ],
+  "author": "Eshwa Gadkar",
+  "license": "ISC"
+}
